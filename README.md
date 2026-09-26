@@ -194,7 +194,7 @@ Building **PulesCode** — a provider-agnostic Python CLI AI coding agent with a
 <img src="https://raw.githubusercontent.com/Afaqraza12/Afaqraza12/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
-> ⚙️ This one needs a one-time setup — see `snake.yml` (provided separately) for the GitHub Action that generates it.
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:A855F7&height=3&section=header" width="100%"/>
 
