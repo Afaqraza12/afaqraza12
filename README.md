@@ -29,6 +29,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:6366F1&height=3&section=header" width="100%"/>
 
+## 📌 Recent GitHub Activity:
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A855F7&height=3&section=header" width="100%"/>
+
 ## 🚀 Featured Projects:
 
 <table>
@@ -155,14 +162,6 @@ Building **PulesCode** — a provider-agnostic Python CLI AI coding agent with a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
-## 🏆 Trophies:
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Afaqraza12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:F97316&height=3&section=header" width="100%"/>
-
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -174,13 +173,7 @@ Building **PulesCode** — a provider-agnostic Python CLI AI coding agent with a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F9679,100:38BDF8&height=3&section=header" width="100%"/>
 
-## 📈 Activity Graph (animated):
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afaqraza12&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
-<br/>
+## 📈 Contribution Streak:
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=Afaqraza12&theme=tokyonight&border=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&card_height=200" width="70%"/>
@@ -194,7 +187,7 @@ Building **PulesCode** — a provider-agnostic Python CLI AI coding agent with a
 <img src="https://raw.githubusercontent.com/Afaqraza12/Afaqraza12/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
-
+> ⚙️ This one needs a one-time setup — see `snake.yml` (provided separately) for the GitHub Action that generates it.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:A855F7&height=3&section=header" width="100%"/>
 
