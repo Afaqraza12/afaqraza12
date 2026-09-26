@@ -7,8 +7,8 @@
 <br/>
 
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-38BDF8?style=for-the-badge&logo=briefcase&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?color=6366F1&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Afaqraza12&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Afaqraza12?color=6366F1&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)
 
 </div>
 
@@ -125,8 +125,8 @@ Building **PulesCode** — a provider-agnostic Python CLI AI coding agent with a
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&border_color=38BDF8&title_color=38BDF8&text_color=e6edf3&hide_border=false&line_height=30" width="45%"/>
-<img src="https://github-stats-extended.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&border_color=38BDF8&icon_color=38BDF8&text_color=e6edf3&title_color=38BDF8&hide_border=false&line_height=35" width="45%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afaqraza12&layout=compact&theme=tokyonight&border_color=38BDF8&title_color=38BDF8&text_color=e6edf3&hide_border=false&line_height=30" width="45%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Afaqraza12&show_icons=true&theme=tokyonight&border_color=38BDF8&icon_color=38BDF8&text_color=e6edf3&title_color=38BDF8&hide_border=false&line_height=35" width="45%"/>
 
 </div>
 
@@ -136,7 +136,7 @@ Building **PulesCode** — a provider-agnostic Python CLI AI coding agent with a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&border=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&card_height=200" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Afaqraza12&theme=tokyonight&border=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&card_height=200" width="70%"/>
 
 </div>
 
@@ -166,7 +166,7 @@ Exploring: Unity Game Dev · AI Agent Tooling · Algo Trading (MQL5)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afaqraza12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/YOUR-FIVERR-USERNAME)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR-UPWORK-ID)
