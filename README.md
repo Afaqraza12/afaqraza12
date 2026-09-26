@@ -35,61 +35,95 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 VeltrixCode Website
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=42&section=header&text=VeltrixCode%20Website&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 Agency website for VeltrixCode — an interactive, 3D-driven build with a custom animated hero.
 
-| Layer | Technology |
-|---|---|
-| 3D / Motion | React Three Fiber, GSAP, Lenis |
-| Styling | Tailwind CSS |
+![R3F](https://img.shields.io/badge/React%20Three%20Fiber-0EA5E9?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-6366F1?style=flat-square&logo=greensock&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
-> 🌱 Actively iterating on the 3D hero background and shader work.
+<details>
+<summary>✨ Key Features</summary>
+<br/>
+
+- Custom curved-grid shader hero background
+- Smooth-scroll experience powered by Lenis
+- Chrome / metallic 3D logo material
+
+</details>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-F97316?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-LIVE-LINK) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Afaqraza12/YOUR-REPO-NAME)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Agla Qadam
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A855F7&height=42&section=header&text=Agla%20Qadam&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-A Flutter + Firebase app that guides Pakistani students through merit calculation, university admissions, scholarships, test prep (MDCAT/ECAT/NET), and career guidance.
+A Flutter + Firebase app guiding Pakistani students through merit calculation, admissions, scholarships, test prep, and career guidance.
 
-| Layer | Technology |
-|---|---|
-| App | Flutter, Riverpod |
-| Backend | Firebase |
+![Flutter](https://img.shields.io/badge/Flutter-6366F1?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-A855F7?style=flat-square&logo=firebase&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-38BDF8?style=flat-square&logo=flutter&logoColor=white)
 
-> 📊 Home dashboard shows merit % and a feature grid (Merit Calculator, Unis, Scholarships, Test Prep).
+<details>
+<summary>✨ Key Features</summary>
+<br/>
+
+- Merit % dashboard with feature-card grid
+- Covers MDCAT / ECAT / NET test prep
+- Pakistan & global university + scholarship guidance
+
+</details>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-F97316?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-LIVE-LINK) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Afaqraza12/YOUR-REPO-NAME)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💊 Babul Shifa
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:EC4899&height=42&section=header&text=Babul%20Shifa&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-A pharmacy management app built for real-world use: barcode scanning, a real-time dashboard, and expiry tracking.
+A pharmacy management app built for real-world use: barcode scanning, live dashboard, and expiry tracking.
 
-| Layer | Technology |
-|---|---|
-| App | Flutter |
-| Backend | Firebase |
+![Flutter](https://img.shields.io/badge/Flutter-A855F7?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-EC4899?style=flat-square&logo=firebase&logoColor=white)
 
-> 🧾 Designed end-to-end, from Figma/Stitch UI to build.
+<details>
+<summary>✨ Key Features</summary>
+<br/>
+
+- Barcode scanning for stock lookup
+- Real-time inventory dashboard
+- Expiry-date tracking & alerts
+
+</details>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-F97316?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-LIVE-LINK) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Afaqraza12/YOUR-REPO-NAME)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Lab Matrix OS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:F97316&height=42&section=header&text=Lab%20Matrix%20OS&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 An enterprise lab management system, deployed and running in production.
 
-| Layer | Technology |
-|---|---|
-| Frontend | React |
-| Backend | Node.js, MySQL |
-| Hosting | Railway |
+![React](https://img.shields.io/badge/React-EC4899?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-F97316?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0EA5E9?style=flat-square&logo=mysql&logoColor=white)
 
-> ⚙️ Built and maintained while running VeltrixCode on the side.
+<details>
+<summary>✨ Key Features</summary>
+<br/>
+
+- Full CRUD lab data management
+- Deployed on Railway
+- Built and maintained alongside client work
+
+</details>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-F97316?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-LIVE-LINK) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Afaqraza12/YOUR-REPO-NAME)
 
 </td>
 </tr>
@@ -121,6 +155,14 @@ Building **PulesCode** — a provider-agnostic Python CLI AI coding agent with a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:EC4899&height=3&section=header" width="100%"/>
 
+## 🏆 Trophies:
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Afaqraza12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:F97316&height=3&section=header" width="100%"/>
+
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -132,15 +174,29 @@ Building **PulesCode** — a provider-agnostic Python CLI AI coding agent with a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F9679,100:38BDF8&height=3&section=header" width="100%"/>
 
-## 📈 Contribution Activity:
+## 📈 Activity Graph (animated):
 
 <div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afaqraza12&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
 
+<br/>
+
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=Afaqraza12&theme=tokyonight&border=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&card_height=200" width="70%"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EF609,100:38BDF8&height=3&section=header" width="100%"/>
+
+## 🐍 Contribution Snake:
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Afaqraza12/Afaqraza12/output/github-contribution-grid-snake.svg" width="95%"/>
+</div>
+
+> ⚙️ This one needs a one-time setup — see `snake.yml` (provided separately) for the GitHub Action that generates it.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:A855F7&height=3&section=header" width="100%"/>
 
 ## 🎯 Current Path:
 
@@ -170,7 +226,7 @@ Exploring: Unity Game Dev · AI Agent Tooling · Algo Trading (MQL5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/YOUR-FIVERR-USERNAME)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR-UPWORK-ID)
-[![Kwork](https://img.shields.io/badge/Kwork-F97316?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)](https://kwork.com/user/YOUR-KWORK-USERNAME)
+[![Kwork](https://img.shields.io/badge/Kwork-F97316?style=for-the-badge&logoColor=white)](https://kwork.com/user/YOUR-KWORK-USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 </div>
