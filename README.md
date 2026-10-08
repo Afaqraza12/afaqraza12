@@ -32,6 +32,7 @@
 ## 📌 Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Agla Qadam v1.0.1 (Beta)](https://github.com/Afaqraza12/agla-qadam-releases/releases/tag/v1.0.1) in [Afaqraza12/agla-qadam-releases](https://github.com/Afaqraza12/agla-qadam-releases)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A855F7&height=3&section=header" width="100%"/>
